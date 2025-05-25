@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "318109838368",
+    "project_id": "ai-fusion-fyp",
+    "storage_bucket": "ai-fusion-fyp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318109838368:android:fa3c509ec3d20855eb2045",
+        "android_client_info": {
+          "package_name": "com.maheen.fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318109838368-95r56741au48jhb1vh9gnnqmsbu1lo7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maheen.fyp",
+            "certificate_hash": "69c7b52b28194ac94e136d8a53fec6babc9161c1"
+          }
+        },
+        {
+          "client_id": "318109838368-sbp2d944incnmbue7unj4nagv85agkn9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maheen.fyp",
+            "certificate_hash": "a023a27864d04407f10853fa32fd740e038fbb9e"
+          }
+        },
+        {
+          "client_id": "318109838368-emmgg15lanthus0ef679ue8l8qlrusdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCruv54UJGNWGCzifDk420NMTwwCepVQTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318109838368-emmgg15lanthus0ef679ue8l8qlrusdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
